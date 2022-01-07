@@ -18,7 +18,7 @@
     "node": ">=6"
   },
   "scripts": {
-    "start": "node ./node_modules/gatling/gatling.js ./app.js"
+    "start": "./index.html"
   },
   "license": "AGPL-3.0"
 }
